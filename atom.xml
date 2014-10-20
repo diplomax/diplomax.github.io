@@ -4,7 +4,7 @@
   <title><![CDATA[Diplomax]]></title>
   <link href="http://blog.primetimelearning.ca/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2014-10-20T17:20:19-06:00</updated>
+  <updated>2014-10-20T17:25:11-06:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[Abhinav Rastogi]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Diplomax Goes Social]]></title>
+    <link href="http://blog.primetimelearning.ca/blog/2014/10/20/diplomax-goes-social/"/>
+    <updated>2014-10-20T17:23:21-06:00</updated>
+    <id>http://blog.primetimelearning.ca/blog/2014/10/20/diplomax-goes-social</id>
+    <content type="html"><![CDATA[<p>This year &hellip;.</p>
+]]></content>
+  </entry>
   
 </feed>
