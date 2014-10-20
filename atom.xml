@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://diplomax.github.io/atom.xml" rel="self"/>
-  <link href="http://diplomax.github.io/"/>
-  <updated>2014-10-20T16:56:05-06:00</updated>
-  <id>http://diplomax.github.io/</id>
+  <title><![CDATA[Diplomax]]></title>
+  <link href="http://blog.primetimelearning.ca/atom.xml" rel="self"/>
+  <link href="http://blog.primetimelearning.ca/"/>
+  <updated>2014-10-20T17:20:19-06:00</updated>
+  <id>http://blog.primetimelearning.ca/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Abhinav Rastogi]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
