@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.primetimelearning.ca/sitemap.xml 
+Sitemap: http://www.primetimelearning.ca/sitemap.xml 

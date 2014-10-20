@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Misc | Diplomax]]></title>
-  <link href="http://blog.primetimelearning.ca/blog/categories/misc/atom.xml" rel="self"/>
-  <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2014-10-20T17:31:29-06:00</updated>
-  <id>http://blog.primetimelearning.ca/</id>
+  <title><![CDATA[Category: Misc | Diplomax - PrimeTime Learning]]></title>
+  <link href="http://www.primetimelearning.ca/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://www.primetimelearning.ca/"/>
+  <updated>2014-10-20T17:33:27-06:00</updated>
+  <id>http://www.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Diplomax Goes Social]]></title>
-    <link href="http://blog.primetimelearning.ca/blog/2014/10/20/diplomax-goes-social/"/>
+    <link href="http://www.primetimelearning.ca/blog/2014/10/20/diplomax-goes-social/"/>
     <updated>2014-10-20T17:23:21-06:00</updated>
-    <id>http://blog.primetimelearning.ca/blog/2014/10/20/diplomax-goes-social</id>
+    <id>http://www.primetimelearning.ca/blog/2014/10/20/diplomax-goes-social</id>
     <content type="html"><![CDATA[<p>This year &hellip;.</p>
 ]]></content>
   </entry>
