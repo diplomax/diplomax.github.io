@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.primetimelearning.ca/diplomax-advantage-the-primetime-learning-guarantee/</loc>
+    <lastmod>2014-10-27T21:56:09-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://blog.primetimelearning.ca/diplomax-is-going-social/</loc>
     <lastmod>2014-10-20T17:23:21-06:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://blog.primetimelearning.ca/blog/archives/</loc>
-    <lastmod>2014-10-26T11:47:17-06:00</lastmod>
+    <lastmod>2014-10-27T22:11:37-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://blog.primetimelearning.ca/</loc>
-    <lastmod>2014-10-26T11:47:17-06:00</lastmod>
+    <lastmod>2014-10-27T22:11:37-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
