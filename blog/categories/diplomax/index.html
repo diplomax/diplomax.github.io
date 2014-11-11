@@ -215,7 +215,11 @@
 <a href="http://blog.primetimelearning.ca/blog/categories/diplomax/index.html" style="display: none! important"><img src="http://chart.apis.google.com/chart?chs=150x150&cht=qr&chld=|0&chco=165B94&chl=http://blog.primetimelearning.ca/blog/categories/diplomax/index.html" alt="post-qrcode"></a>
 </section>
 <section>
-	<a href="http://goo.gl/l2Pq6w"><img src="/images/kid.png"></img></a>
+	<a href="http://goo.gl/l2Pq6w"><img id="sidebarimages" src="/images/kid.png"></img></a>
+	<script type="text/javascript">
+	 var images = ['kid.png', 'kid2.png'];
+	 $('#sidebarimages').attr('src', "/images/" + images[Math.floor(Math.random() * images.length)] );
+	</script>
 </section><section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
