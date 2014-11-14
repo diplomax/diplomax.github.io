@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Alberta Diploma Preparation | Diplomax - PrimeTime Learning]]></title>
   <link href="http://blog.primetimelearning.ca/blog/categories/alberta-diploma-preparation/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2014-11-13T18:17:04-07:00</updated>
+  <updated>2014-11-14T09:17:56-07:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.primetimelearning.ca/diplomax-prep-gives-students-leg-up-for-alberta-diploma-exams/"/>
     <updated>2014-11-13T17:48:34-07:00</updated>
     <id>http://blog.primetimelearning.ca/diplomax-prep-gives-students-leg-up-for-alberta-diploma-exams</id>
-    <content type="html"><![CDATA[<p><img src="/images/graduation.jpg" title="&ldquo;Graduation&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img /images/graduation.jpg &ldquo;Graduation&rdquo; %}</p>
 
 <p>High-stakes diploma exams in January and June are always a challenge for grade 12 students.   These provincial exams count for <em>50% of a student’s final grade with the other 50% coming from school-based assessments</em>.</p>
 
