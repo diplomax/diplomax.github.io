@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Sample Question | Diplomax - PrimeTime Learning]]></title>
+  <link href="http://blog.primetimelearning.ca/blog/categories/sample-question/atom.xml" rel="self"/>
+  <link href="http://blog.primetimelearning.ca/"/>
+  <updated>2014-12-23T16:59:56-07:00</updated>
+  <id>http://blog.primetimelearning.ca/</id>
+  <author>
+    <name><![CDATA[PrimeTime Learning]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Biology 30 - Sample Question and Solution]]></title>
+    <link href="http://blog.primetimelearning.ca/biology-30-sample-question/"/>
+    <updated>2014-12-23T16:55:00-07:00</updated>
+    <id>http://blog.primetimelearning.ca/biology-30-sample-question</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/A1.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+
+<p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be positing more questions soon.</p>
+
+<p>If you are serious about your success on the diploma exams – <a href="http://primetimelearning.ca/">DIPLOMAX</a> is here to help you succeed!</p>
+]]></content>
+  </entry>
+  
+</feed>
