@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-4/</loc>
+    <lastmod>2014-12-31T11:31:55-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://blog.primetimelearning.ca/biology-30-sample-question-and-solution-number-3/</loc>
     <lastmod>2014-12-30T21:45:23-07:00</lastmod>
     <priority>0.8</priority>
@@ -62,13 +67,13 @@
   </url>
   <url>
     <loc>http://blog.primetimelearning.ca/blog/archives/</loc>
-    <lastmod>2014-12-30T21:46:14-07:00</lastmod>
+    <lastmod>2014-12-31T11:39:41-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://blog.primetimelearning.ca/</loc>
-    <lastmod>2014-12-30T21:46:14-07:00</lastmod>
+    <lastmod>2014-12-31T11:39:41-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
