@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.primetimelearning.ca/for-june-2015-its-still-50-percent/</loc>
+    <lastmod>2015-05-31T22:07:47-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-18/</loc>
     <lastmod>2015-01-14T17:30:24-07:00</lastmod>
     <priority>0.8</priority>
@@ -137,13 +142,13 @@
   </url>
   <url>
     <loc>http://blog.primetimelearning.ca/blog/archives/</loc>
-    <lastmod>2015-01-19T19:07:40-07:00</lastmod>
+    <lastmod>2015-05-31T22:15:31-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://blog.primetimelearning.ca/</loc>
-    <lastmod>2015-01-19T19:07:40-07:00</lastmod>
+    <lastmod>2015-05-31T22:15:31-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
