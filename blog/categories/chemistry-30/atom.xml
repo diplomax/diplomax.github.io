@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Chemistry 30 | Diplomax - PrimeTime Learning]]></title>
   <link href="http://blog.primetimelearning.ca/blog/categories/chemistry-30/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2015-05-31T22:22:21-06:00</updated>
+  <updated>2015-05-31T22:28:53-06:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-18/"/>
     <updated>2015-01-14T17:30:24-07:00</updated>
     <id>http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-18</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A25-25.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A25-25.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -31,7 +31,7 @@
     <link href="http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-17/"/>
     <updated>2015-01-13T17:57:35-07:00</updated>
     <id>http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-17</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A24-24.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A24-24.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -44,9 +44,9 @@
     <link href="http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-15/"/>
     <updated>2015-01-11T11:50:15-07:00</updated>
     <id>http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-15</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A20-20.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A20-20.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
-<p><img class="center" src="/images/A21-21.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+<p>{% img center /images/A21-21.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -59,9 +59,9 @@
     <link href="http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-6/"/>
     <updated>2015-01-02T10:10:00-07:00</updated>
     <id>http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-6</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A8-8.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A8-8.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
-<p><img class="center" src="/images/A9-9.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+<p>{% img center /images/A9-9.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -74,9 +74,9 @@
     <link href="http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-5/"/>
     <updated>2015-01-01T10:10:34-07:00</updated>
     <id>http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-5</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A6-6.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A6-6.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
-<p><img class="center" src="/images/A7-7.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+<p>{% img center /images/A7-7.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 

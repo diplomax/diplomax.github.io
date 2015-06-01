@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Math 30 | Diplomax - PrimeTime Learning]]></title>
   <link href="http://blog.primetimelearning.ca/blog/categories/math-30/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2015-05-31T22:22:21-06:00</updated>
+  <updated>2015-05-31T22:28:53-06:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-12/"/>
     <updated>2015-01-08T21:55:01-07:00</updated>
     <id>http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-12</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A15-15.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A15-15.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -31,7 +31,7 @@
     <link href="http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-11/"/>
     <updated>2015-01-07T17:44:24-07:00</updated>
     <id>http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-11</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A14-14.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A14-14.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -44,7 +44,7 @@
     <link href="http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-10/"/>
     <updated>2015-01-06T22:54:46-07:00</updated>
     <id>http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-10</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A13-13.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A13-13.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -57,7 +57,7 @@
     <link href="http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-9/"/>
     <updated>2015-01-05T10:10:00-07:00</updated>
     <id>http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-9</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A12-12.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A12-12.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -70,7 +70,7 @@
     <link href="http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-8/"/>
     <updated>2015-01-04T18:11:48-07:00</updated>
     <id>http://blog.primetimelearning.ca/math-30-sample-question-and-solution-number-8</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A11-11.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A11-11.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 

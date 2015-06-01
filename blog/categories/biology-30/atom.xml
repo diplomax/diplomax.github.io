@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Biology 30 | Diplomax - PrimeTime Learning]]></title>
   <link href="http://blog.primetimelearning.ca/blog/categories/biology-30/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2015-05-31T22:22:21-06:00</updated>
+  <updated>2015-05-31T22:28:53-06:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
@@ -18,9 +18,9 @@
     <link href="http://blog.primetimelearning.ca/biology-30-sample-question-and-solution-number-16/"/>
     <updated>2015-01-12T18:58:24-07:00</updated>
     <id>http://blog.primetimelearning.ca/biology-30-sample-question-and-solution-number-16</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A22-22.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A22-22.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
-<p><img class="center" src="/images/A23-23.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+<p>{% img center /images/A23-23.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -33,7 +33,7 @@
     <link href="http://blog.primetimelearning.ca/biology-30-sample-question-and-solution-number-3/"/>
     <updated>2014-12-30T21:45:23-07:00</updated>
     <id>http://blog.primetimelearning.ca/biology-30-sample-question-and-solution-number-3</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A3.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A3.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -46,7 +46,7 @@
     <link href="http://blog.primetimelearning.ca/biology-30-sample-question-and-solution/"/>
     <updated>2014-12-30T10:12:22-07:00</updated>
     <id>http://blog.primetimelearning.ca/biology-30-sample-question-and-solution</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A2.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A2.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a> for more sample questions.</p>
 
@@ -59,7 +59,7 @@
     <link href="http://blog.primetimelearning.ca/biology-30-sample-question/"/>
     <updated>2014-12-23T16:55:00-07:00</updated>
     <id>http://blog.primetimelearning.ca/biology-30-sample-question</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/A1.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/A1.png &ldquo;Sample Question and Solution&rdquo; %}</p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -72,7 +72,7 @@
     <link href="http://blog.primetimelearning.ca/test-writing-tips-part-2/"/>
     <updated>2014-12-06T13:33:10-07:00</updated>
     <id>http://blog.primetimelearning.ca/test-writing-tips-part-2</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/exam_time2.png" title="&ldquo;Exam Time&rdquo;" ></p>
+    <content type="html"><![CDATA[<p>{% img center /images/exam_time2.png &ldquo;Exam Time&rdquo; %}</p>
 
 <p>Here are the “Last Five” of the Top Ten Test Writing Tips that may help you to write a stronger exam!</p>
 
@@ -85,7 +85,7 @@
 </ul>
 
 
-<p><img class="right" src="/images/exam_time.jpg" title="&ldquo;Exam Time&rdquo;" ></p>
+<p>{% img right /images/exam_time.jpg &ldquo;Exam Time&rdquo; %}</p>
 
 <p>When writing an exam, there is no substitute for knowing your course material really well but you can bolster your performance by staying in the exam room for the entire amount of time and reviewing your answers.  Take a short ‘mental break’ by rolling your head from side to side and/or shrugging your shoulders.  In thinking about the overall test or reviewing specific questions, you may remember additional information to add to some of your written responses or help you with the multiple choice questions.</p>
 
