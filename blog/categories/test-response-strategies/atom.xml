@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Test Response Strategies | Diplomax - PrimeTime Learning]]></title>
   <link href="http://blog.primetimelearning.ca/blog/categories/test-response-strategies/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2015-05-31T22:28:53-06:00</updated>
+  <updated>2015-05-31T22:32:43-06:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.primetimelearning.ca/managing-test-anxiety/"/>
     <updated>2014-12-21T17:26:33-07:00</updated>
     <id>http://blog.primetimelearning.ca/managing-test-anxiety</id>
-    <content type="html"><![CDATA[<p>{% img center /images/stressed2.jpg &ldquo;Stressed&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/stressed2.jpg" title="&ldquo;Stressed&rdquo;" ></p>
 
 <p>Feeling somewhat anxious or <strong>stressed</strong> before an exam is quite normal for most students.  At times the tension helps you to <strong>rise to the challenge</strong>.  Do you feel some or all of the following prior to writing a test?</p>
 
@@ -34,7 +34,7 @@
 
 <h2>Before the Exam:</h2>
 
-<p>{% img right /images/stressed.jpg &ldquo;Stressed&rdquo; %}</p>
+<p><img class="right" src="/images/stressed.jpg" title="&ldquo;Stressed&rdquo;" ></p>
 
 <ul>
 <li>Accept that feeling anxious prior to a test is a normal feeling.</li>
@@ -69,7 +69,7 @@
     <link href="http://blog.primetimelearning.ca/test-response-strategies/"/>
     <updated>2014-12-14T13:29:43-07:00</updated>
     <id>http://blog.primetimelearning.ca/test-response-strategies</id>
-    <content type="html"><![CDATA[<p>{% img center /images/strategies.jpg &ldquo;Strategies&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/strategies.jpg" title="&ldquo;Strategies&rdquo;" ></p>
 
 <p>There are many strategies to help you maximize your performance on quizzes, unit tests, and final exams.  The following provides information on three common strategies that you may find useful.</p>
 
@@ -89,7 +89,7 @@
 <h2>Three-Pass Strategy</h2>
 
 <p>This strategy has three steps or ‘passes’ for answering exam questions; is an abbreviated version of the five pass method:
-{% img right /images/strategies0.png &ldquo;Strategies&rdquo; %}</p>
+<img class="right" src="/images/strategies0.png" title="&ldquo;Strategies&rdquo;" ></p>
 
 <ol>
 <li><em>Overview</em> – scan the entire exam; note question formats, marks for each section, instructions, and questions you can complete easily and quickly</li>
@@ -102,7 +102,7 @@
 
 <p>This strategy has four steps to work through in answering a problem; the problem can be a word problem or a calculation problem:</p>
 
-<p>{% img right /images/strategies1.jpg &ldquo;Strategies&rdquo; %}</p>
+<p><img class="right" src="/images/strategies1.jpg" title="&ldquo;Strategies&rdquo;" ></p>
 
 <ol>
 <li><em>Understand the problem</em> – What is the question?  Do I have the information I need?</li>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Physics 30 | Diplomax - PrimeTime Learning]]></title>
   <link href="http://blog.primetimelearning.ca/blog/categories/physics-30/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2015-05-31T22:28:53-06:00</updated>
+  <updated>2015-05-31T22:32:43-06:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
@@ -18,9 +18,9 @@
     <link href="http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-14/"/>
     <updated>2015-01-10T19:32:00-07:00</updated>
     <id>http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-14</id>
-    <content type="html"><![CDATA[<p>{% img center /images/A18-18.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/A18-18.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
-<p>{% img center /images/A19-19.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+<p><img class="center" src="/images/A19-19.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -33,9 +33,9 @@
     <link href="http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-13/"/>
     <updated>2015-01-09T21:30:17-07:00</updated>
     <id>http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-13</id>
-    <content type="html"><![CDATA[<p>{% img center /images/A16-16.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/A16-16.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
-<p>{% img center /images/A17-17.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+<p><img class="center" src="/images/A17-17.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -48,7 +48,7 @@
     <link href="http://blog.primetimelearning.ca/test-writing-tips-part-2/"/>
     <updated>2014-12-06T13:33:10-07:00</updated>
     <id>http://blog.primetimelearning.ca/test-writing-tips-part-2</id>
-    <content type="html"><![CDATA[<p>{% img center /images/exam_time2.png &ldquo;Exam Time&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/exam_time2.png" title="&ldquo;Exam Time&rdquo;" ></p>
 
 <p>Here are the “Last Five” of the Top Ten Test Writing Tips that may help you to write a stronger exam!</p>
 
@@ -61,7 +61,7 @@
 </ul>
 
 
-<p>{% img right /images/exam_time.jpg &ldquo;Exam Time&rdquo; %}</p>
+<p><img class="right" src="/images/exam_time.jpg" title="&ldquo;Exam Time&rdquo;" ></p>
 
 <p>When writing an exam, there is no substitute for knowing your course material really well but you can bolster your performance by staying in the exam room for the entire amount of time and reviewing your answers.  Take a short ‘mental break’ by rolling your head from side to side and/or shrugging your shoulders.  In thinking about the overall test or reviewing specific questions, you may remember additional information to add to some of your written responses or help you with the multiple choice questions.</p>
 
@@ -74,7 +74,7 @@
     <link href="http://blog.primetimelearning.ca/test-writing-tips-series-part-1/"/>
     <updated>2014-11-27T22:21:31-07:00</updated>
     <id>http://blog.primetimelearning.ca/test-writing-tips-series-part-1</id>
-    <content type="html"><![CDATA[<p>{% img center /images/test-writing-part1.jpg &ldquo;Test writing tips&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/test-writing-part1.jpg" title="&ldquo;Test writing tips&rdquo;" ></p>
 
 <p>There are two components to doing well on an exam.<br/>
    <strong>One</strong> – you need to know your material. <br/> <strong>Two</strong> – you need to know <em>how</em> to write the test.  Knowing how to write the test gives you the best opportunity to demonstrate your knowledge and understanding of the course content.</p>
@@ -101,7 +101,7 @@
     <link href="http://blog.primetimelearning.ca/study-schedules/"/>
     <updated>2014-11-20T19:18:47-07:00</updated>
     <id>http://blog.primetimelearning.ca/study-schedules</id>
-    <content type="html"><![CDATA[<p>{% img center /images/grades.jpg &ldquo;Girls with grades&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/grades.jpg" title="&ldquo;Girls with grades&rdquo;" ></p>
 
 <p>Have you ever read the story of <em>The Hare and the Tortoise?</em>  It is a delightful children’s story of a race between two animal friends who each are confident of their ability to win a race.  The Hare sets off to a speedy start and covers a significant amount of territory before deciding he has enough of a head start on the Tortoise that he can stop for a rest.  He settles under a shady tree and enjoys a nap, confident that he can sprint to the finish line well before the Tortoise can catch up to him.</p>
 
@@ -113,7 +113,7 @@
 
 <p><strong>Short-term Study Schedules</strong> are often implemented several days or weeks before an exam and require you to prioritize the time you spend on each topic or concept.  It may be difficult to find a “starting point”.  Do you focus on the things that are most important in the subject or on the concepts that are most challenging to you? Like the Hare, your focus may change before the end of the race.  You may skim over content that you feel you have a firm understanding of in favor of focusing on topics that feel less confident about.  Your focus may not be as consistent or as strong as it needs to be for the duration of your study or exam preparation time. The advantage of a short-term study schedule is that you gain a sense of confidence as you “check off” the topics and concepts you feel confident about.</p>
 
-<p>{% img right /images/panic.jpeg &ldquo;Panic&rdquo; %}</p>
+<p><img class="right" src="/images/panic.jpeg" title="&ldquo;Panic&rdquo;" ></p>
 
 <p><strong>Panic Study Schedules</strong> usually happen “the night before” the exam – when you realize that you do not have enough time to adequately prepare for your exam.  Although this study schedule requires the least amount of time commitment, it rarely allows you to achieve your potential.  Like the Hare, leaving too much to the end makes it impossible to finish what needs to be done.  However, any effort is better than doing nothing.</p>
 

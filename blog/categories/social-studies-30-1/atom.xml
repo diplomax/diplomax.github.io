@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Social Studies 30-1 | Diplomax - PrimeTime Learning]]></title>
   <link href="http://blog.primetimelearning.ca/blog/categories/social-studies-30-1/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2015-05-31T22:28:53-06:00</updated>
+  <updated>2015-05-31T22:32:43-06:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.primetimelearning.ca/test-writing-tips-part-2/"/>
     <updated>2014-12-06T13:33:10-07:00</updated>
     <id>http://blog.primetimelearning.ca/test-writing-tips-part-2</id>
-    <content type="html"><![CDATA[<p>{% img center /images/exam_time2.png &ldquo;Exam Time&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/exam_time2.png" title="&ldquo;Exam Time&rdquo;" ></p>
 
 <p>Here are the “Last Five” of the Top Ten Test Writing Tips that may help you to write a stronger exam!</p>
 
@@ -31,7 +31,7 @@
 </ul>
 
 
-<p>{% img right /images/exam_time.jpg &ldquo;Exam Time&rdquo; %}</p>
+<p><img class="right" src="/images/exam_time.jpg" title="&ldquo;Exam Time&rdquo;" ></p>
 
 <p>When writing an exam, there is no substitute for knowing your course material really well but you can bolster your performance by staying in the exam room for the entire amount of time and reviewing your answers.  Take a short ‘mental break’ by rolling your head from side to side and/or shrugging your shoulders.  In thinking about the overall test or reviewing specific questions, you may remember additional information to add to some of your written responses or help you with the multiple choice questions.</p>
 
@@ -44,7 +44,7 @@
     <link href="http://blog.primetimelearning.ca/test-writing-tips-series-part-1/"/>
     <updated>2014-11-27T22:21:31-07:00</updated>
     <id>http://blog.primetimelearning.ca/test-writing-tips-series-part-1</id>
-    <content type="html"><![CDATA[<p>{% img center /images/test-writing-part1.jpg &ldquo;Test writing tips&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/test-writing-part1.jpg" title="&ldquo;Test writing tips&rdquo;" ></p>
 
 <p>There are two components to doing well on an exam.<br/>
    <strong>One</strong> – you need to know your material. <br/> <strong>Two</strong> – you need to know <em>how</em> to write the test.  Knowing how to write the test gives you the best opportunity to demonstrate your knowledge and understanding of the course content.</p>
@@ -71,7 +71,7 @@
     <link href="http://blog.primetimelearning.ca/study-schedules/"/>
     <updated>2014-11-20T19:18:47-07:00</updated>
     <id>http://blog.primetimelearning.ca/study-schedules</id>
-    <content type="html"><![CDATA[<p>{% img center /images/grades.jpg &ldquo;Girls with grades&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/grades.jpg" title="&ldquo;Girls with grades&rdquo;" ></p>
 
 <p>Have you ever read the story of <em>The Hare and the Tortoise?</em>  It is a delightful children’s story of a race between two animal friends who each are confident of their ability to win a race.  The Hare sets off to a speedy start and covers a significant amount of territory before deciding he has enough of a head start on the Tortoise that he can stop for a rest.  He settles under a shady tree and enjoys a nap, confident that he can sprint to the finish line well before the Tortoise can catch up to him.</p>
 
@@ -83,7 +83,7 @@
 
 <p><strong>Short-term Study Schedules</strong> are often implemented several days or weeks before an exam and require you to prioritize the time you spend on each topic or concept.  It may be difficult to find a “starting point”.  Do you focus on the things that are most important in the subject or on the concepts that are most challenging to you? Like the Hare, your focus may change before the end of the race.  You may skim over content that you feel you have a firm understanding of in favor of focusing on topics that feel less confident about.  Your focus may not be as consistent or as strong as it needs to be for the duration of your study or exam preparation time. The advantage of a short-term study schedule is that you gain a sense of confidence as you “check off” the topics and concepts you feel confident about.</p>
 
-<p>{% img right /images/panic.jpeg &ldquo;Panic&rdquo; %}</p>
+<p><img class="right" src="/images/panic.jpeg" title="&ldquo;Panic&rdquo;" ></p>
 
 <p><strong>Panic Study Schedules</strong> usually happen “the night before” the exam – when you realize that you do not have enough time to adequately prepare for your exam.  Although this study schedule requires the least amount of time commitment, it rarely allows you to achieve your potential.  Like the Hare, leaving too much to the end makes it impossible to finish what needs to be done.  However, any effort is better than doing nothing.</p>
 
@@ -100,7 +100,7 @@
     <link href="http://blog.primetimelearning.ca/diplomax-prep-gives-students-leg-up-for-alberta-diploma-exams/"/>
     <updated>2014-11-13T17:48:34-07:00</updated>
     <id>http://blog.primetimelearning.ca/diplomax-prep-gives-students-leg-up-for-alberta-diploma-exams</id>
-    <content type="html"><![CDATA[<p>{% img /images/graduation.jpg &ldquo;Graduation&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/graduation.jpg" title="&ldquo;Graduation&rdquo;" ></p>
 
 <p>High-stakes diploma exams in January and June are always a challenge for grade 12 students.   These provincial exams count for <em>50% of a student’s final grade with the other 50% coming from school-based assessments</em>.</p>
 

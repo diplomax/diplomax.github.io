@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Diplomax | Diplomax - PrimeTime Learning]]></title>
   <link href="http://blog.primetimelearning.ca/blog/categories/diplomax/atom.xml" rel="self"/>
   <link href="http://blog.primetimelearning.ca/"/>
-  <updated>2015-05-31T22:28:53-06:00</updated>
+  <updated>2015-05-31T22:32:43-06:00</updated>
   <id>http://blog.primetimelearning.ca/</id>
   <author>
     <name><![CDATA[PrimeTime Learning]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.primetimelearning.ca/for-june-2015-its-still-50-percent/"/>
     <updated>2015-05-31T22:07:47-06:00</updated>
     <id>http://blog.primetimelearning.ca/for-june-2015-its-still-50-percent</id>
-    <content type="html"><![CDATA[<p>{% img right /images/racing_guy.jpg &ldquo;racing guy&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/racing_guy.jpg" title="&ldquo;racing guy&rdquo;" ></p>
 
 <p>Alberta Education’s announcement that the weighting of your diploma mark will change from 50% to 30% was good news <em>BUT the change does not take effect until the beginning of the 2015-16</em> school year.  For this June, your diploma exam mark is STILL 50% of your final grade. While teachers are doing their best to finish teaching the curriculum and provide you with a course review, the time to do all this is quickly ticking away!</p>
 
@@ -42,7 +42,7 @@
     <link href="http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-18/"/>
     <updated>2015-01-14T17:30:24-07:00</updated>
     <id>http://blog.primetimelearning.ca/physics-30-sample-question-and-solution-number-18</id>
-    <content type="html"><![CDATA[<p>{% img center /images/A25-25.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/A25-25.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -55,7 +55,7 @@
     <link href="http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-17/"/>
     <updated>2015-01-13T17:57:35-07:00</updated>
     <id>http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-17</id>
-    <content type="html"><![CDATA[<p>{% img center /images/A24-24.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/A24-24.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -68,9 +68,9 @@
     <link href="http://blog.primetimelearning.ca/biology-30-sample-question-and-solution-number-16/"/>
     <updated>2015-01-12T18:58:24-07:00</updated>
     <id>http://blog.primetimelearning.ca/biology-30-sample-question-and-solution-number-16</id>
-    <content type="html"><![CDATA[<p>{% img center /images/A22-22.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/A22-22.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
-<p>{% img center /images/A23-23.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+<p><img class="center" src="/images/A23-23.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
@@ -83,9 +83,9 @@
     <link href="http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-15/"/>
     <updated>2015-01-11T11:50:15-07:00</updated>
     <id>http://blog.primetimelearning.ca/chemistry-30-sample-question-and-solution-number-15</id>
-    <content type="html"><![CDATA[<p>{% img center /images/A20-20.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/A20-20.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
-<p>{% img center /images/A21-21.png &ldquo;Sample Question and Solution&rdquo; %}</p>
+<p><img class="center" src="/images/A21-21.png" title="&ldquo;Sample Question and Solution&rdquo;" ></p>
 
 <p>Are you looking for more sample questions? Like our <a href="https://www.facebook.com/GetDiplomax">Facebook</a> page or follow us on <a href="https://twitter.com/GetDiplomax">Twitter</a>. We will be posting more.</p>
 
